@@ -6,11 +6,16 @@
 #    By: aben-ham <aben-ham@student.42.fr>          +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2022/02/14 18:50:42 by aben-ham          #+#    #+#              #
-#    Updated: 2022/02/15 16:17:29 by aben-ham         ###   ########.fr        #
+#    Updated: 2022/02/15 16:51:18 by aben-ham         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 FILES = \
+		q_clear.c \
+		q_clone.c \
+		q_dequeue.c \
+		q_enqueue.c \
+		q_init.c \
 		main.c
 
 #-Wall -Wextra -Werror
